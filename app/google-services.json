@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635498413885",
+    "firebase_url": "https://projectsyo-4308a.firebaseio.com",
+    "project_id": "projectsyo-4308a",
+    "storage_bucket": "projectsyo-4308a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635498413885:android:d9e0574fa79ff773",
+        "android_client_info": {
+          "package_name": "com.example.siddharthvaish.syo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635498413885-t6l3qsq541rl8gmn91ansdhtdibcc2e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBeMBHWB2Dx3aqXlDSQY430owJBaDHtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SYO</string>
+
+    <array name="category">
+        <item>Electronics</item>
+        <item>Mobiles</item>
+        <item>Cltothing</item>
+        <item>Furniture</item>
+    </array>
+    <array name="condition">
+        <item>excellent</item>
+        <item>Fair</item>
+        <item>Good</item>
+    </array>
+
+</resources>
